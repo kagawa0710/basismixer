@@ -2,11 +2,11 @@ name: basismixer
 
 channels:
   - defaults
-  - pytorch
+  - torch
 
 dependencies:
   - python=3.9
-  - pytorch
+  - torch
   - numpy
   - scipy
   - matplotlib
